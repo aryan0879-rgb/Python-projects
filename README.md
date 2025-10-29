@@ -7,7 +7,6 @@ Each project focuses on improving logic, problem-solving, and clean code practic
 - **Password Checker** – Checks whether the input password by the user is correct or not. 
 - **Number Guessing Game** – Simple console-based guessing game with random numbers.  
 - **Time-Based Greeter** – Greets users depending on the current system time.  
-- **Multiplication Table Generator** – Prints multiplication tables for any number input.  
 - **Tip Calculator** – Calculates total bill and tip percentage.  
 
 ## 🧠 Tech Used
