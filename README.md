@@ -4,7 +4,7 @@ A collection of small Python projects I built while learning programming fundame
 Each project focuses on improving logic, problem-solving, and clean code practices.
 
 ## 🚀 Projects Included
-- **Password Strength Checker** – Analyzes password complexity and suggests improvements.  
+- **Password Checker** – Checks whether the input password by the user is correct or not. 
 - **Number Guessing Game** – Simple console-based guessing game with random numbers.  
 - **Time-Based Greeter** – Greets users depending on the current system time.  
 - **Multiplication Table Generator** – Prints multiplication tables for any number input.  
